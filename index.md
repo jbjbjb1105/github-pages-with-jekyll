@@ -1,3 +1,3 @@
-# Welcome to my blog
+# This is the learning process
 
-I'm glad you are here. I plan to talk about ...
+It is a great way to learn github
